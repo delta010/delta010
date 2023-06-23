@@ -6,7 +6,9 @@
   - [Hacking Door Sensors Using RTL-SDR](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Web Vulnerability Analysis</b>
    - [My Altoro Mutual Vulnerability Analysis Report ](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b> Hardware Hacking</b>
+   - [ Reverse Engineering IOT Devices](https://github.com/joshmadakor1/Algorithms-Practice)
+   
 
 
 
@@ -20,7 +22,6 @@
 <h2> Electronics Development Projects:</h2>
 
 - <b> Raspberry Pi Pico Media Controller </b>
-- <b> Reverse Engineering IOT Devices </b>
 - <b> DIY Atari Punk Console</b>
 - <b> Cheap Hardware For PC Controll</b>
 
