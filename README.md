@@ -15,7 +15,7 @@
 <h2>IOT Development Projects:</h2>
 
 - <b>Zigbee IOT Development Devices</b>
-  - [Zigbee Energy Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Zigbee Energy Monitor](https://github.com/delta010/Zigbee-Energy-Monitor)
   - [Zigbee 8 Button Remote](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
 
