@@ -3,11 +3,11 @@
 
 
 - <b>Wireless Hacking  </b>
-  - [Hacking Door Sensors Using RTL-SDR](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hacking Door Sensors Using RTL-SDR]()
 - <b>Web Vulnerability Analysis</b>
    - [My Altoro Mutual Vulnerability Analysis Report ](https://github.com/delta010/Altoro-Mutual-Vulnerability-Analysis-Report)
 - <b> Hardware Hacking</b>
-   - [ Reverse Engineering IOT Devices](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [ Reverse Engineering IOT Devices]()
    
 
 
@@ -16,7 +16,7 @@
 
 - <b>Zigbee IOT Development Devices</b>
   - [Zigbee Energy Monitor](https://github.com/delta010/Zigbee-Energy-Monitor)
-  - [Zigbee 8 Button Remote](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Zigbee 8 Button Remote](https://github.com/delta010/Zigbee-8-Button-Remote)
  
 
 <h2> Electronics Development Projects:</h2>
@@ -31,8 +31,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/
+[linkedin]: https://linkedin.com/in/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
