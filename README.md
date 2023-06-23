@@ -5,7 +5,7 @@
 - <b>Wireless Hacking  </b>
   - [Hacking Door Sensors Using RTL-SDR](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Web Vulnerability Analysis</b>
-   - [My Altoro Mutual Vulnerability Analysis Report ](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [My Altoro Mutual Vulnerability Analysis Report ](https://github.com/delta010/Altoro-Mutual-Vulnerability-Analysis-Report)
 - <b> Hardware Hacking</b>
    - [ Reverse Engineering IOT Devices](https://github.com/joshmadakor1/Algorithms-Practice)
    
