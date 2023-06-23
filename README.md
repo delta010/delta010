@@ -10,7 +10,7 @@
 
 
 
-<h2></h2> IOT Development Projects:</h2>
+<h2>IOT Development Projects:</h2>
 
 - <b>Zigbee IOT Development Devices</b>
   - [Zigbee Energy Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
