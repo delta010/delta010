@@ -23,7 +23,7 @@
 
 - <b> Raspberry Pi Pico Media Controller </b>
 - <b> DIY Atari Punk Console</b>
-- <b> Cheap Hardware For PC Controll</b>
+- <b> [Cheap Hardware For PC Controll](https://github.com/delta010/PC-Remote-ON_OFF-Controll/tree/main)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
