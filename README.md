@@ -21,7 +21,7 @@
 
 <h2> Electronics Development Projects:</h2>
 
-- <b> Raspberry Pi Pico Media Controller </b>
+- <b> [Raspberry Pi Pico Media Controller](https://github.com/delta010/Raspberry_Pi_Pico_Media_Controller) </b>
 - <b> DIY Atari Punk Console</b>
 - <b> [Cheap Hardware For PC Controll](https://github.com/delta010/PC-Remote-ON_OFF-Controll/tree/main)</b>
 
