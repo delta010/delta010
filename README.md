@@ -32,7 +32,7 @@
 
 
 [twitter]: https://twitter.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: www.linkedin.com/in/ajay-krishnan-a638b8282
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
